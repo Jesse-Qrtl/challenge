@@ -1,0 +1,49 @@
+-Begin met €100
+
+---------------------------------------------------------------------------------------------------------------------
+
+- High / Low Card Game
+Je krijgt een kaart te zien.
+Speler kiest: Wordt de volgende kaart hoger of lager?
+
+---------------------------------------------------------------------------------------------------------------------
+
+- Lucky Wheel (Rad van Fortuin)
+Rad met vakjes:
++10
++50
+-20
+
+JACKPOT
+DOUBLE
+Speler betaalt om te draaien.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Dice Bet Game
+Concept:
+
+Speler gokt:
+
+Onder 50?
+
+Boven 50?
+
+Je rolt een getal 1–100.
+
+Correct = winst
+Fout = verlies
+
+---------------------------------------------------------------------------------------------------------------------
+ 
+BlackJack
+
+Het doel is om met jouw kaarten zo dicht mogelijk bij 21 punten te komen, maar niet eroverheen. 
+Ga je over de 21? Dan verlies je direct, dat heet 'bust'. 
+Krijg je met je eerste twee kaarten een aas en een 10-kaart (10, boer, vrouw of heer), 
+dan heb je Blackjack: meestal direct winst, tenzij de bank ook Blackjack heeft.
+
+
+
+
+
